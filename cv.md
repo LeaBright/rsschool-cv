@@ -4,6 +4,7 @@
 * **Phone**: +7 904 3691201
 * **Email**: LeaBright95@gmail.com
 * **Telegram**: @LeaBright
+* **Discord**: LeaBright#3178
 
 ## About me:
 I am 26 years old. I had a small business selling crochet items on Etsy.
@@ -23,6 +24,7 @@ function multiply(a, b){
 
 ## Experience:
 * Small own business - Shop on Etsy
+* [CV](https://github.com/LeaBright/rsschool-cv)
 
 ## Education and courses:
 * Smolensk College of Light Industry and Fashion Industry
