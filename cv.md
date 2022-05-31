@@ -13,3 +13,13 @@ After closing the business, I decided to radically change my life and try someth
 * HTML
 * CSS
 * Git, GitHub
+
+## Code Example:
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+## Experience:
+* Small own business - Shop on Etsy
