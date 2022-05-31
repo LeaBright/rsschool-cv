@@ -23,3 +23,14 @@ function multiply(a, b){
 
 ## Experience:
 * Small own business - Shop on Etsy
+
+## Education and courses:
+* Smolensk College of Light Industry and Fashion Industry
+* Code Basics - HTML
+* Code Basics - CSS
+* JS course on YouTube channel **Bogdan Stashchuk** (in process)
+
+## Language:
+* **Russian** - Native
+* **English** - Pre-Intermediate (A2)
+* **Italian** - Elementary (A1)
