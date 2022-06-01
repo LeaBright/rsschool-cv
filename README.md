@@ -1,1 +1,1 @@
-# rsschool-cv
+https://leabright.github.io/rsschool-cv/
